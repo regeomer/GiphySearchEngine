@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GiphySearchEngine": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Omer\\source\\repos\\GiphySearchEngine\\GiphySearchEngine\\bin\\Debug\\net5.0-windows\\GiphySearchEngine.exe"
+    }
+  }
+}
